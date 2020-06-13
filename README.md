@@ -11,8 +11,12 @@ Before you begin, ensure you have met the following requirements:
 * You have  Node.JS and npm/yarn.
 * You have Express.
 * You have Sequelize Sequelize-cli
+* You have PostgreSQL
 * You may need some other npm packages if add more complexity.
 * You have a `<Windows\Linux\Mac>` machine. State which OS is supported/which is not.
+
+> In this project PostgreSQL run in DOCKER
+> Postbird to see DB in a simple way
 
 <!-- How to install the thing -->
 ## To install **sqlnode**, follow these steps:
